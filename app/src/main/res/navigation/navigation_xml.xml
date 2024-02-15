@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FragmentHome">
+
+    <fragment
+        android:id="@+id/FragmentHome"
+        android:name="com.vedruna.proyectofinalmultimedia.Fragments.FragmentHome"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/FragmentCrear"
+        android:name="com.vedruna.proyectofinalmultimedia.Fragments.FragmentCrear"
+        android:label="fragment_crear"
+        tools:layout="@layout/fragment_crear" />
+    <fragment
+        android:id="@+id/FragmentModificar"
+        android:name="com.vedruna.proyectofinalmultimedia.Fragments.FragmentModificar"
+        android:label="fragment_modificar"
+        tools:layout="@layout/fragment_modificar" />
+    <fragment
+        android:id="@+id/FragmentEliminar"
+        android:name="com.vedruna.proyectofinalmultimedia.Fragments.FragmentEliminar"
+        android:label="fragment_eliminar"
+        tools:layout="@layout/fragment_eliminar" />
+</navigation>

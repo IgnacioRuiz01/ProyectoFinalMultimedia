@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65611926466",
+    "project_id": "login-73548",
+    "storage_bucket": "login-73548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65611926466:android:4f7af4ccbc1dbdd1f7a45b",
+        "android_client_info": {
+          "package_name": "com.vedruna.proyectofinalmultimedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65611926466-4t4c0q6peq7bqmo85lgpsqjar1sjdrog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedruna.proyectofinalmultimedia",
+            "certificate_hash": "6c5c863d338ac472991ce028b83de833afc7407a"
+          }
+        },
+        {
+          "client_id": "65611926466-f7oj68ju04msc1tqnf94glnp0ar8635m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeiIz1VwLLAdnIlpBgYloJ6pyzw7P0_g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65611926466-f7oj68ju04msc1tqnf94glnp0ar8635m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
