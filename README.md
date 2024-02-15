@@ -23,7 +23,7 @@ Operaciones CRUD: Se implementan funciones para realizar operaciones CRUD sobre 
 Capturas de Pantalla
 A continuación se muestran algunas capturas de pantalla de la aplicación:
 
-![Lista de Raperos](img/lo)
+![Lista de Raperos](img/login)
 
 
 Detalles de Raperos
