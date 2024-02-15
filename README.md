@@ -25,6 +25,25 @@ La aplicación Android se ha desarrollado utilizando el entorno de desarrollo An
 **Adaptadores y ListViews:** Se implementan adaptadores personalizados para mostrar la lista de raperos y sus detalles en ListViews.
 **Operaciones CRUD:** Se implementan funciones para realizar operaciones CRUD sobre la base de datos de raperos, como crear, leer, actualizar y eliminar.
 
+**Dependencias**
+El proyecto utiliza varias bibliotecas y dependencias para su funcionamiento. A continuación, se detallan las principales dependencias utilizadas:
+
+**AndroidX Appcompat:** Una biblioteca de compatibilidad que facilita el uso de características más nuevas en versiones anteriores de Android.
+**Material Components para Android:** Proporciona una implementación de los componentes de Material Design.
+**ConstraintLayout:** Biblioteca de diseño flexible para crear una interfaz de usuario utilizando restricciones.
+**Navigation Component:** Biblioteca para gestionar las transiciones entre fragmentos y actividades en tu aplicación.
+**JUnit y Espresso:** Utilizados para escribir y ejecutar pruebas de unidad y pruebas de interfaz de usuario.
+**Retrofit:** Biblioteca para realizar solicitudes HTTP de manera sencilla.
+**GSON Converter:** Convertidor para Retrofit que facilita el manejo de JSON.
+**Picasso:** Biblioteca de carga de imágenes que simplifica el manejo de imágenes en tu aplicación.
+
+**Firebase (Google Services)**
+El proyecto también hace uso de Firebase para integrar servicios en la nube proporcionados por Google. Las dependencias de Firebase incluyen:
+
+**Firebase Analytics:** Para el análisis y seguimiento del comportamiento de los usuarios en la aplicación.
+**Firebase Auth:** Para la autenticación de usuarios mediante Firebase.
+**Play Services Auth:** Dependencia para la autenticación de usuarios mediante Google.
+
 **Capturas de Pantalla**
 A continuación se muestran algunas capturas de pantalla de la aplicación:
 
